@@ -8,7 +8,7 @@ Stores the price in a Redis Database
 Presents the Average Price for the last 10 minutes (LIVE)
 
 
-**Run **
+**Run**
 ```bash
 $ git clone 'https://github.com/ahmadabed1/Bitcoin_Docker_Task.git'
 $ docker-compose up
