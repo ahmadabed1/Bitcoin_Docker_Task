@@ -13,6 +13,8 @@ Presents the Average Price for the last 10 minutes (LIVE)
 $ git clone 'https://github.com/ahmadabed1/Bitcoin_Docker_Task.git'
 $ docker-compose up
 ```
+<img width="705" alt="צילום מסך 2022-11-20 152903" src="https://user-images.githubusercontent.com/73169815/202904840-aa28d268-92a2-4b6a-b342-c89ac517f4fe.png">
+
 
 **open browser**
 
