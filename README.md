@@ -1,6 +1,6 @@
 ﻿# Bitcoin_Docker_Task
  
- **About**
+##  **About**
 Create a Python Web APP using FLASK that:
 
 Presents the Current BitCoin Price (LIVE)
@@ -8,7 +8,10 @@ Stores the price in a Redis Database
 Presents the Average Price for the last 10 minutes (LIVE)
 
 
-**Run**
+------------
+
+
+## **Run**
 ```bash
 $ git clone 'https://github.com/ahmadabed1/Bitcoin_Docker_Task.git'
 $ docker-compose up
@@ -16,7 +19,10 @@ $ docker-compose up
 <img width="705" alt="צילום מסך 2022-11-20 152903" src="https://user-images.githubusercontent.com/73169815/202904840-aa28d268-92a2-4b6a-b342-c89ac517f4fe.png">
 
 
-**open browser**
+------------
+
+
+### **open browser**
 
     http://127.0.0.1:8000
 
