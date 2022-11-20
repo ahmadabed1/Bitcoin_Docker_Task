@@ -24,8 +24,6 @@ $ docker-compose up
 
 **Jenkins**
 <img width="959" alt="צילום מסך 2022-11-20 133928" src="https://user-images.githubusercontent.com/73169815/202903337-4c79a92b-8f52-4500-97de-d94aa7d9e8ff.png">
-
-<img width="960" alt="צילום מסך 2022-11-20 134006" src="https://user-images.githubusercontent.com/73169815/202903343-33bdd571-1429-4102-8db5-e36579b927d7.png">
  
  **DockerHub**
  <img width="960" alt="צילום מסך 2022-11-20 133825" src="https://user-images.githubusercontent.com/73169815/202903380-29133581-4bad-44a2-a897-b79c9ff975a6.png">
